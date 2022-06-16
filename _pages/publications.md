@@ -37,7 +37,7 @@ Author: S. Li, **Q. Chen**, Z. Li, W. Meng and C. Li
 Author: S. Li, **Q. Chen**, W. Meng and C. Li
 
 ## - Civil Aircrafts Augmented Space-Air-Ground Integrated Vehicular Networks: Motivation, Breakthrough and Challenges
-*Published on IEEE Internet of Things Journal, Early Access*
+*Published on IEEE Internet of Things Journal, 2022*
 
 Author: **Q. Chen**, W. Meng, S. Li, C. Li and H. -H. Chen
 
