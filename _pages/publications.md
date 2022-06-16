@@ -14,6 +14,10 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+## - Robust Task Scheduling for Delay-Aware IoT Applications in Civil Aircraft-Augmented SAGIN
+*Accepted by IEEE Transactions on Communications*
+
+Author: **Q. Chen**, W. Meng, S. Li, C. Li and H. -H. Chen
 
 ## - Capacity Analysis of Civil Aircraft in SAGIN
 *Accepted by 2022 IEEE International Conference on Communications (ICC)*
@@ -37,7 +41,7 @@ Author: S. Li, **Q. Chen**, Z. Li, W. Meng and C. Li
 Author: S. Li, **Q. Chen**, W. Meng and C. Li
 
 ## - Civil Aircrafts Augmented Space-Air-Ground Integrated Vehicular Networks: Motivation, Breakthrough and Challenges
-*Published on IEEE Internet of Things Journal, Early Access*
+*Published on IEEE Internet of Things Journal, Apr. 2022*
 
 Author: **Q. Chen**, W. Meng, S. Li, C. Li and H. -H. Chen
 
