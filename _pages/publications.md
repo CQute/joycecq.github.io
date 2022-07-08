@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## - Robust Task Scheduling for Delay-Aware IoT Applications in Civil Aircraft-Augmented SAGIN
+*Accepted by IEEE Transactions on Communications*
+
+Author: **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen
+
 ## - Capacity Analysis of Civil Aircraft in SAGIN
 *Accepted by 2022 IEEE International Conference on Communications (ICC)*
 
