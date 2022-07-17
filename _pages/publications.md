@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## - Capacity Analysis of Civil Aircraft in SAGIN
+
+## - Capacity Analysis of Civil Aircraft in SAGIN
 *Accepted by 2022 IEEE International Conference on Communications (ICC)*
 
 Author: **Q. Chen**, S. Li, W. Meng and C. Li
